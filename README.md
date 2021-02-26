@@ -38,5 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to listen song when im coding 
 -->
-https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codegif.gif
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
+
