@@ -39,6 +39,6 @@ I'm Sonika here 👋👋
 
 I'm Pursuing my BE computer science in Panimalar Engineering College at Chennai and very much interested in front end development.
 
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="400">
 
 
