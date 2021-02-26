@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codegif.gif, https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="225" height="225">
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="225" height="225">
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="500" height="225">
+
 
 <!--
 **sonika-m/sonika-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codegif.gif
