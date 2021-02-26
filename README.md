@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.canva.com/design/DAEXPbaIY94/9Y5ehvKO0fNMUTPy650hQA/watch?utm_content=DAEXPbaIY94&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codegif.gif">
 
 <!--
 **sonika-m/sonika-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
