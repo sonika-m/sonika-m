@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="">
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/sonika%20logo1.png">
 
 <img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
 
