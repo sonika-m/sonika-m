@@ -1,8 +1,10 @@
-### Hi there 👋
+### What's up Guys 🔥🔥
 
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/sonika%20logo1.png" width="800" height="250">
+I'm 👋👋
 
-<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/sonika%20logo1.png" width="800" height="250"> 👋👋👋👋
+
+
 
 
 <!--
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codegif.gif
+<img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
