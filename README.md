@@ -34,6 +34,9 @@ I'm Sonika here 👋👋
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<br>
+<br>
+
 I'm Pursuing my BE computer science in Panimalar Engineering College at Chennai and very much interested in front end development.
 
 <img src="https://raw.githubusercontent.com/sonika-m/header.github.io/main/Codinggif.gif" width="700" height="500">
