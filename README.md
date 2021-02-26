@@ -7,7 +7,11 @@ I'm Sonika here 👋👋
 - 👯 I’m looking to collaborate on Freelancing Project
 - 🤔 I’m looking for help with Full Time Opportunity 
 - 💬 Ask me about Front End Development 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to listen song when im coding 
+
 - 📫 How to reach me: 
+<br>
 - <a href="https://twitter.com/sonika_02">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -30,9 +34,5 @@ I'm Sonika here 👋👋
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br>
-
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to listen song when im coding 
 
 
