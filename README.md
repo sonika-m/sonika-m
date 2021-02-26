@@ -12,7 +12,7 @@ I'm Sonika here 👋👋
 
 - 📫 How to reach me: 
 <br>
-- <a href="https://twitter.com/sonika_02">
+<a href="https://twitter.com/sonika_02">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sonika-m/">
