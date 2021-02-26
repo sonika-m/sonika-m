@@ -29,6 +29,9 @@ I'm Sonika here 👋👋
 <a href="https://www.youtube.com/channel/UCIZpRPXYxzQLGaor8O_McOA">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
+<br>
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to listen song when im coding 
 
